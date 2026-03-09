@@ -4,6 +4,7 @@
 
 From fintech and industrial systems to AI SaaS and enterprise integrations. Currently building **MCP servers** that give AI agents direct, authenticated access to enterprise platforms — an emerging space with very few practitioners.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-matheusantonio.dev-1a1a2e?style=flat&logo=vercel&logoColor=white)](https://www.matheusantonio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Antonio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-antonio-01217a307/)
 
 `Open to opportunities`
