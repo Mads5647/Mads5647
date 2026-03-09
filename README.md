@@ -15,7 +15,7 @@ From fintech and industrial systems to AI SaaS and enterprise integrations. Curr
 **[@Iron-Studios](https://github.com/Iron-Studios)** — Senior FullStack Developer. Building integration infrastructure, MCP servers, and developer tools.<br>
 **[@DDCCompany](https://github.com/DDCCompany)** — Senior FullStack Developer. ERP and IT solutions for the financial sector (4+ years).
 
-Previously: **Aurya** (AI SaaS) · **Jmar** (Industrial Systems) · **Agnus** (Fintech)
+Previously: **Aurya** (AI SaaS). At DDC: **Jmar** (Industrial Systems) · **Agnus** (Fintech)
 
 ---
 
