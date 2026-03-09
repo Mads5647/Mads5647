@@ -21,16 +21,16 @@ Previously: **Aurya** (AI SaaS) · **Jmar** (Industrial Systems) · **Agnus** (F
 
 ### What I've Built
 
-**[NetSuite MCP Server](https://github.com/Iron-Studios/netsuite-mcp)** — MCP Server giving AI agents full access to NetSuite via SuiteScript 2.1 RESTlet.
+**NetSuite MCP Server** — MCP Server giving AI agents full access to NetSuite via SuiteScript 2.1 RESTlet.
 > 72 tools | 14 toolsets | 21 N/ modules | OAuth 2.0 M2M (JWT + ES256) | Exponential backoff with jitter | Semaphore concurrency control | Zod validation on all inputs
 
-**[Iron Middleware](https://github.com/Iron-Studios/iron-middleware)** — Enterprise integration middleware with modular connector architecture.
+**Iron Middleware** — Enterprise integration middleware with modular connector architecture.
 > Shopify connector (GraphQL client, auto-pagination, rate limiting, HMAC-SHA256 webhooks) | Shopify-to-NetSuite order sync | 166+ unit tests | Azure infrastructure with Bicep IaC
 
 **Aurya** — AI-powered visual editing SaaS platform.
 > React 18 + TypeScript | Real-time canvas rendering (1000+ elements @ 60fps) | AI pipelines for image/video generation | WebSocket-based operations | Sub-200ms INP | Viewport culling, lazy loading | 30+ specialized editing tools
 
-**[MCP PostHog](https://github.com/Mads5647/mcp-posthog)** — MCP Server for PostHog analytics, enabling AI agents to query product data and events.
+**MCP PostHog** — MCP Server for PostHog analytics, enabling AI agents to query product data and events.
 
 ---
 
