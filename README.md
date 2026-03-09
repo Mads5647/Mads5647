@@ -30,6 +30,9 @@ Previously: **Aurya** (AI SaaS) · **Jmar** (Industrial Systems) · **Agnus** (F
 **Aurya** — AI-powered visual editing SaaS platform.
 > React 18 + TypeScript | Real-time canvas rendering (1000+ elements @ 60fps) | AI pipelines for image/video generation | WebSocket-based operations | Sub-200ms INP | Viewport culling, lazy loading | 30+ specialized editing tools
 
+**Agent IDWorks** — Local RAG agent for IDWorks ERP knowledge base.
+> Ollama embeddings (bge-m3, local) | In-memory vector store with cosine similarity | Claude API (Haiku/Sonnet/Opus) | 222 Zendesk articles, 729 chunks | Terminal chat with streaming | Docker
+
 **MCP PostHog** — MCP Server for PostHog analytics, enabling AI agents to query product data and events.
 
 ---
@@ -40,6 +43,7 @@ Previously: **Aurya** (AI SaaS) · **Jmar** (Industrial Systems) · **Agnus** (F
 **Frontend:** React 18, Next.js, Konva.js, Zustand<br>
 **Backend:** Node.js, Express, WebSocket, REST, GraphQL<br>
 **Platforms:** NetSuite (SuiteScript 2.1), Shopify (Admin GraphQL API), Azure, AWS<br>
+**AI/ML:** RAG (Ollama, bge-m3), Claude API, vector search (cosine similarity)<br>
 **Data:** PostgreSQL<br>
 **Protocols:** MCP, OAuth 2.0 (M2M / Client Credentials), Webhooks (HMAC-SHA256)<br>
 **Infra:** Docker, Bicep (IaC)<br>
